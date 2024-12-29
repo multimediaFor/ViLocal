@@ -57,14 +57,14 @@ python inference.py
 
 ## Citation
 If you use this code for your research, please cite our paper
-
+```
 @article{lou2024video,
   title={Video Inpainting Localization with Contrastive Learning},
   author={Lou, Zijie and Cao, Gang and Lin, Man},
   journal={arXiv preprint arXiv:2406.17628},
   year={2024}
 }
-
+```
 ## License
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for Non-commercial use only.
 Any commercial use should get formal permission first.
