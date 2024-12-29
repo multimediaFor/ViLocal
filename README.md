@@ -17,9 +17,9 @@ An official implementation code for paper "Video Inpainting Localization with Co
 1. [DAVIS2016](https://davischallenge.org/)
 2. [DAVIS2017](https://davischallenge.org/)
 3. [MOSE](https://github.com/henghuiding/MOSE-api)
-4. [VOS2k5-800]() (in this paper we use 800 videos from VOS2k5)
+4. [VOS2k5-800](https://www.123684.com/s/2pf9-9bWHv) (in this paper we use 800 videos from VOS2k5)
 
-The `MOSE100` dataset in this paper can be found in [this]()
+The `MOSE100` dataset in this paper can be found in [this](https://www.123684.com/s/2pf9-EbWHv)
 
 ## Video inpainting algorithms
 1. [VI](https://github.com/mcahny/Deep-Video-Inpainting)
@@ -41,7 +41,7 @@ python train.py
 ```
 
 For example to test:
-download [train_VI_OP.pth]()
+download [train_VI_OP.pth](https://www.123684.com/s/2pf9-QbWHv)
 ```bash
 cd train_stage2
 python split_files.py # split files
